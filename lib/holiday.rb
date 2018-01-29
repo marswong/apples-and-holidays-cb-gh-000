@@ -73,7 +73,7 @@ def all_holidays_with_bbq(holiday_hash)
   # include the string "BBQ"
   # result = []
   # holiday_hash.values.each do ||
-  #   
+  #
   # end
   # result
   puts holiday_hash.values.values
